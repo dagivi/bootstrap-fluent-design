@@ -1,8 +1,9 @@
 {
-  "name": "Fluent-Bootstrap",
-  "version": "1.0.0",
+  "name": "bootstrap-fluent",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "DaGivi",
+  "repository": "https://github.com/dagivi/bootstrap-fluent-design.git",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
